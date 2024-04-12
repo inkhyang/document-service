@@ -1,0 +1,4 @@
+upload:
+  path: C:\Users\Qwerty\Documents
+server:
+  port: 8081
